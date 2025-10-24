@@ -1,6 +1,6 @@
 # Microsoft-Edge-Streaming<br>
 ## Are you streaming from Microsoft Edge?<br>
-### _Use this script! Forces HDR, Surround sound, and DHCP!_<br>
+### <ins>Use this script! Forces HDR, Surround sound, and DHCP!</ins><br>
 <br />
 Go to your `C:\` drive<br>
 Create a new folder called scripts<br>
