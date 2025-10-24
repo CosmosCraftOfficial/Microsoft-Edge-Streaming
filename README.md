@@ -1,11 +1,11 @@
 # Microsoft-Edge-Streaming
 Are you streaming from Microsoft Edge? Use this script! Forces HDR, Surround sound, and DHCP!
-
+<br />
 Go to your `C:\` drive
 Create a new folder called scripts
-
+<br />
 You will get a log file to view after executed in the Scripts folder you just created and it will be called EdgeLauncherLog.
-
+<br />
 To run this on every system startup:
 Past the downloaded Microsoft-Edge.ps1
 Do `Win+R`
@@ -14,7 +14,7 @@ Then hit enter key
 Right click → New → Shortcut
 Path: `powershell.exe -ExecutionPolicy Bypass -File "C:\Scripts\Microsoft-Edge.ps1"`
 Name: Microsoft Edge
-
+<br />
 If that doesn't work use Task Scheduler
 Search for Task scheduler and run it as Admin
 Create Task
@@ -35,5 +35,5 @@ Conditions Tab (optional): uncheck “Start the task only if the computer is on 
 Settings Tab:
 Check: “Run task as soon as possible after a scheduled start is missed”
 Click OK to save.
-
+<br />
 If these 2 options dont work then copy the Microsoft-Edge.ps1 to your Desktop and right click and press Run with Powershell before opening Edge.
