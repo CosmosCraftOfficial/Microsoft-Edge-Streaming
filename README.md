@@ -15,8 +15,7 @@ Right click → New → Shortcut<br>
 Path: `powershell.exe -ExecutionPolicy Bypass -File "C:\Scripts\Microsoft-Edge.ps1"`<br>
 Name: Microsoft Edge<br>
 <br />
-<br />
-If that doesn't work use Task Scheduler<br>
+If that doesn't work use Task Scheduler:<br>
 Search for Task scheduler and run it as Admin.<br>
 Create Task<br>
 General Tab:<br>
