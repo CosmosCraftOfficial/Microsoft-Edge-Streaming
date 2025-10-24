@@ -7,7 +7,7 @@ Create a new folder called `Scripts`<br>
 You will get a log file to view after executed in the Scripts folder you just created and it will be called EdgeLauncherLog.<br>
 <br />
 To run this on every system startup:<br>
-Paste the downloaded `Microsoft-Edge.ps1`<br>
+Paste the downloaded `Microsoft-Edge.ps1` in the Scripts folder you created.<br>
 Do `Win+R`<br>
 Enter `shell:startup`<br>
 Then hit enter key<br>
