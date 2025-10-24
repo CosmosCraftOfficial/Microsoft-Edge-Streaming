@@ -2,7 +2,7 @@
 <ins>Are you streaming from Microsoft Edge? Use this script! Forces HDR, Surround sound, and DHCP!</ins><br>
 <br />
 Go to your `C:\` drive<br>
-Create a new folder called scripts<br>
+Create a new folder called `Scripts`<br>
 <br />
 You will get a log file to view after executed in the Scripts folder you just created and it will be called EdgeLauncherLog.<br>
 <br />
