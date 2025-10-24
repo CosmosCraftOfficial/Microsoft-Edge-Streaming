@@ -34,9 +34,9 @@ try {
       "--enable-hdr-output",
       "--try-supported-channel-layouts",
       "--enable-exclusive-audio",
-    "--no-startup-window",
-    "--flag-switches-begin",
-    "--flag-switches-end"
+     "--no-startup-window",
+     "--flag-switches-begin",
+     "--flag-switches-end"
   )
   Write-Host "Flags to apply: $($EdgeFlags -join ' ')"
 
@@ -52,4 +52,5 @@ finally {
     # Stop logging
     Stop-Transcript
     Write-Host "`nAll output logged to $LogFile"
+
 }
