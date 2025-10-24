@@ -9,7 +9,7 @@ You will get a log file to view after executed in the Scripts folder you just cr
 To run this on every system startup:<br>
 Paste the downloaded `Microsoft-Edge.ps1`<br>
 Do `Win+R`<br>
-Enter shell:startup<br>
+Enter `shell:startup`<br>
 Then hit enter key<br>
 Right click → New → Shortcut<br>
 Path: `powershell.exe -ExecutionPolicy Bypass -File "C:\Scripts\Microsoft-Edge.ps1"`<br>
