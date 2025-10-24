@@ -36,4 +36,4 @@ Settings Tab:<br>
 Check: “Run task as soon as possible after a scheduled start is missed”<br>
 Click OK to save.<br>
 <br />
-If these 2 options dont work then copy the Microsoft-Edge.ps1 to your Desktop and right click and press Run with Powershell before opening Edge.
+If these 2 options dont work then copy the `Microsoft-Edge.ps1` to your Desktop and right click and press Run with Powershell before opening Edge.
