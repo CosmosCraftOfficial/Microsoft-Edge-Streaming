@@ -17,7 +17,7 @@ Name: Microsoft Edge<br>
 <br />
 If that doesn't work use Task Scheduler:<br>
 Search for Task scheduler and run it as Admin.<br>
-Create Task<br>
+`Create Task`<br>
 General Tab:<br>
 Name: `Microsoft Edge Custom Launcher`<br>
 Check: Run only when user is logged on<br>
